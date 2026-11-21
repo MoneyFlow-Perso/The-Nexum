@@ -1,0 +1,11 @@
+{
+  "name": "The Nexum \u2014 An UmBrage Creation",
+  "short_name": "The Nexum",
+  "description": "Fashion branding and social growth hub",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#101a18",
+  "icons": []
+}
