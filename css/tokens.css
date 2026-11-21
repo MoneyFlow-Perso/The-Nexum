@@ -1,0 +1,20 @@
+:root {
+  --ink: #101a18;
+  --ink-soft: #1b2925;
+  --paper: #f5f6f1;
+  --surface: #ffffff;
+  --surface-soft: #edf1e9;
+  --accent: #b8f36b;
+  --accent-deep: #91c84a;
+  --muted: #75817b;
+  --line: #dce3dc;
+  --gold: #c9a66b;
+  --radius: 18px;
+  --shadow: 0 18px 50px rgba(16, 26, 24, .08);
+  font-synthesis: none;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink); }
+a { color: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
